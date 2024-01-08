@@ -1,0 +1,21 @@
+Credit for a large portion of the code goes to Antonio from the youtube channel "Code with Antonio".
+This is a tutorial project created from one of his videos.
+
+This project uses Next, App Router, React, Tailwind, ChadCN/ui, Prisma, and MySQL for the tech stack.
+
+>>>>> concepts:
+shadcn-ui is not a component library. it is a collection of reusable code
+route grouping ex. (root) , each route group can have different layouts
+
+
+>>>>> commands(notes):
+npx create-next-app@latest ecomm-admin --typescript --tailwind --eslint
+npx shadcn-ui@latest init
+
+>>>>> desired feature implementations: 
+aria, ...
+
+
+"Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023"
+    Video Link: https://www.youtube.com/watch?v=5miHyP6lExg
+
